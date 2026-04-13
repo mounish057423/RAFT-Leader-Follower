@@ -393,8 +393,8 @@ Node restarts
 
 | Spec | Value |
 |------|-------|
-| CPU | YOUR CPU HERE |
-| RAM | YOUR RAM HERE |
+| CPU | 256GB |
+| RAM | 8GB  |
 | OS | Windows 11 |
 | Go version | 1.22.2 |
 | SQLite mode | WAL + synchronous=NORMAL |
